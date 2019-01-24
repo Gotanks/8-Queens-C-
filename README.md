@@ -1,1 +1,3 @@
-# This is a solution to the 8 queens problem using pointers and functions to print all unique solutions on a terminal that resembles a 8x8 chess board. This is only for reference use and not to be copied for academic work.
+A wide variety of problems and solutions from my Object Oriented Programming class in Queens college. This is only for reference use and not to be copied for academic work.
+
+https://venus.cs.qc.edu/~waxman/211/assignments.html
